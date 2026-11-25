@@ -4,7 +4,11 @@ Projeto acadêmico da disciplina **Testes e Qualidade de Software na Prática: D
 
 ## Equipe
 
-- Integrantes: preencher com os nomes da equipe.
+- Daniel Viana
+- Josemir Pedro
+- Gabriel Pessoa
+- Hélder Gabriel
+- José Victor Mendes
 
 ## Regras de negócio
 
